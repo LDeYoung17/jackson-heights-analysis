@@ -1,4 +1,4 @@
-# Jackson Heights History Data Visualizations
+# Jackson Heights Historical Housing Data
 
 <h2>Summary</h2>
 
